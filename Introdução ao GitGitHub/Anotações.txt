@@ -10,3 +10,11 @@ git clone "link https repositoria do git hub".
 cd -- entrar nas pastas 
 
 ls -- listar as pastas 
+
+git status -- Indica a siruação do repositório.
+
+git add . -- Enviar a pasta pro controle de versão adicionando osa arquivos com versões novas.
+
+git commit -m "" -- Cria o commit para o arquivo de forma local.
+
+git push origin main -- Envia os commits locais para a nuvem.
