@@ -1,0 +1,12 @@
+O git bash é um terminal extendido para otimizaro uso do git.
+
+Link para download
+https://docs.github.com/pt/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop
+
+Comandos:
+
+git clone "link https repositoria do git hub".
+
+cd -- entrar nas pastas 
+
+ls -- listar as pastas 
